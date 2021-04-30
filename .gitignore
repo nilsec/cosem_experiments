@@ -1,0 +1,6 @@
+*.err
+*.meta
+*.pyc
+*.out
+*.log
+*.json
